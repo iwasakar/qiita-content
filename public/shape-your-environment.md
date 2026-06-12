@@ -2,12 +2,12 @@
 title: 「成長できる環境」を探すのをやめた ― いまの制約で回路を作る
 tags:
   - ポエム
+  - チーム開発
   - キャリア
   - 業務改善
-  - チーム開発
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-06-12T10:46:54+09:00'
+id: de15fcde2bde74d829e6
 organization_url_name: dialog-inc
 slide: false
 ignorePublish: false

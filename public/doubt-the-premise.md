@@ -2,12 +2,12 @@
 title: 「言われた通りに作る」が一番危ない ― 仕様・要望・エラーの前提を疑う問いリスト
 tags:
   - ポエム
+  - 設計
   - 問題解決
   - 要件定義
-  - 設計
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-06-12T10:46:54+09:00'
+id: 5f13ab0c17f7aa7da017
 organization_url_name: dialog-inc
 slide: false
 ignorePublish: false

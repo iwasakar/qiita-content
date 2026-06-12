@@ -3,11 +3,11 @@ title: その技術選定、「何を捨てたか」まで説明できますか�
 tags:
   - ポエム
   - 設計
-  - 技術選定
   - チーム開発
+  - 技術選定
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-06-12T10:46:55+09:00'
+id: c932af7f02092deff0ed
 organization_url_name: dialog-inc
 slide: false
 ignorePublish: false

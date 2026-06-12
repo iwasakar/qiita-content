@@ -6,7 +6,7 @@ tags:
   - Laravel
   - pest
 private: false
-updated_at: '2024-09-04T11:16:02+09:00'
+updated_at: '2026-06-12T10:46:54+09:00'
 id: 6bb033ae4f630ecf4ade
 organization_url_name: dialog-inc
 slide: false
